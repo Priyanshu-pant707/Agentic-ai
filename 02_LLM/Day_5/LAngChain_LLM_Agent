@@ -1,0 +1,81 @@
+# LangChain 
+-  it is a frame work  that helps you t build LLM-powered applications using small building block like :
+    - LLMs
+    - Prompts
+    - Memory
+    - Tools/APIs
+    - Chains and Agents
+
+- Langchain makes it easier to connect LLMs with real-world data , tools and logic .
+
+
+
+## KeyConcepts :
+
+- LLM : The brain
+- Prompt : what do you ask the LLM
+- Output Parser : Helps convert the LLM's response into a structured format 
+- Chain : A sequence like :
+    -> Prompt -> LLM -> Praser -> output
+- Memory :  Keeps context between interactions 
+
+- Agent : Think of it like a smart decision maker
+    -  it can :
+        -  decide what tool to use
+        - think step by step
+        - call external tools
+        -  act like a mini Ai worker.
+
+
+
+``` LangChain gives you more than just "chains" and "agents" 
+- chains and agents are the two most important "high - level tools", but LangChain provides a full toolbox to help you build complete AI-powered apps.
+
+
+```
+
+
+
+
+## Chain
+
+- a chain means connectiong building block together .
+- it is a rule based .  No thinking or decisions involved.
+
+
+
+
+## Agent
+
+- imagine your app needs to think, make decisions , and choose tool dynamically .
+
+- an agent is powered by an LLM and a list of tools
+- the agent decides what to do next - it reasons and acts.
+
+
+
+
+
+``` 
+- just connect LLM + Prompt  -> use chain
+- need decision making or tool use -> use agent 
+
+
+```
+
+
+
+
+
+## LCEL ?
+
+- it stands for Langchain expression language
+- it is a newer , more composable , modular and future proof way to build llm pipelines using ***.pipe()*** and ***.invoke()*** instead of older abstactions like LLMChain.
+
+
+ 
+
+
+
+
+
