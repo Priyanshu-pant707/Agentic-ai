@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables (IMPORTANT 🔥)
+.env
+
+# VS Code
+.vscode/
+
+# Mac / Linux
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# LangChain / AI artifacts
+*.faiss
+*.pkl
+
+# HuggingFace cache
+.cache/
+.huggingface/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node (if frontend added later)
+node_modules/

@@ -1,0 +1,42 @@
+Generative AI (Gen AI) - Comprehensive Guide
+
+## Introduction
+Generative AI refers to artificial intelligence systems that can generate text, images, code, audio, and more.
+It has revolutionized industries including healthcare, education, software development, and entertainment.
+
+## Key Concepts
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Transformers
+- Large Language Models (LLMs)
+
+## Popular Models
+- GPT (Generative Pre-trained Transformer)
+- BERT
+- DALL·E
+- Stable Diffusion
+
+## Applications
+1. Content Creation
+2. Chatbots
+3. Code Generation
+4. Image Generation
+5. Video Editing
+
+## Working of Generative AI
+Generative AI models are trained on large datasets and learn patterns.
+They use probabilistic methods to predict the next token or pixel.
+
+## Advantages
+- Automation
+- Creativity boost
+- Time-saving
+
+## Challenges
+- Bias
+- Hallucinations
+- Ethical concerns
+
+## Future Scope
+Generative AI will play a major role in AGI development, personalized assistants, and autonomous systems.
