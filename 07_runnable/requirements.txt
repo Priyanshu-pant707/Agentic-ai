@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+mistralai
+langchain-mistralai
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+requests
